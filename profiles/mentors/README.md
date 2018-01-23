@@ -27,7 +27,7 @@
 * [Marcos Furtado](profiles/marcos_furtado.md)
 * [Rafael Koga](profiles/rafael_koga.md)
 
-## C#
+## C
 
 * [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 
@@ -83,6 +83,7 @@
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
 
 ## Dot.Net
+
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Khauê Viana](profiles/khaue_viana.md)
@@ -92,6 +93,7 @@
 * [Raphael Pacheco](profiles/raphael_pacheco.md)
 
 ## Informação Geográfica (GIS)
+
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
@@ -132,7 +134,6 @@
 * [Vinicius Reis](profiles/vinicius_reis.md)
 * [Vinicius Torves](profiles/vinicius_torves.md)
 * [Wésley Queiroz](profiles/wesley_queiroz.md)
-* [Wendell Adriel](profiles/wendell_adriel.md)
 * [William Bruno](profiles/william_bruno.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Renan Birlem](profiles/renanbirlem.md)
@@ -199,7 +200,7 @@
 * [Fernando Moreira](profiles/fernando_moreira.md)
 * [Leandro Lima](profiles/leandro_lima.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
-* [Luiz Tanure](profiles/luiz_tanure.md) 
+* [Luiz Tanure](profiles/luiz_tanure.md)
 * [Matheus Barone](profiles/matheus_barone.md)
 * [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
